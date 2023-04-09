@@ -1,0 +1,129 @@
+
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/709/717/desktop-wallpaper-one-piece-black-and-white-dark-luffy.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:100vh;
+    place-items: center;
+    height: fit-content;
+    
+}
+*{
+    color:white;
+    position: initial;
+    
+}
+
+span{
+    position: absolute;
+    padding-left: 45%;
+   align-items: center;
+}
+.card img{
+    
+    height: 100%;
+    width:35%;
+    border-radius: 9px;
+    border-style:groove;
+    border-width: 4px;
+    border-color: rgb(18, 18, 19);
+    
+
+}
+.container img {
+  margin-top: 0%;
+  padding-top: 0%;
+  float: left;
+  max-width: 60px;
+   width: 60%;
+  margin-right: 10px;
+  margin-bottom: 1%;
+  border-radius: 50%;
+  border:rgb(240, 252, 252);
+border-width: 1px;
+border-style: solid;
+border-spacing: 0cap;
+}
+.container p{
+   padding-top:0%;
+   font-size: 25px;
+   margin-bottom: 0%;
+   font-family:'Times New Roman', Times, serif;
+   text-decoration: underline;
+   text-underline-offset: 3px;
+   text-shadow: 2px 3px 5px rgb(230, 250, 157);
+ 
+}
+
+.leftcolumn {
+  
+    float: left;
+    width: 75%;
+    padding-right: 0%;
+    padding-top: 2%;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+  .rightcolumn {
+   
+    float: center;
+    width: 60%;
+    position: absolute;
+    top:21%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+  h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-shadow: 2px 3px 5px rgb(122, 224, 241);
+    font-family:sans-serif;
+
+    
+  }
+ h5{
+  margin-bottom: 2%;
+   margin-top:1%;
+font-style: normal;
+font-size: 15px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+font-family:Arial, Helvetica, sans-serif;
+ }
+  h2{
+   -moz-box-align: center;
+    border-color: blue;
+    
+  }
+  .boxed {
+      
+    border: 2px solid rgb(85, 199, 245) ;
+   width: fit-content;
+     padding:10px;
+     text-shadow: #e0f2f5;
+     color:rgb(245, 250, 250);
+     text-shadow: 2px 4px 5px aqua;
+     font-size:20px ;
+     
+  }
+  .secondboxed{
+  border: 2px solid rgb(85, 199, 245) ;
+  width: fit-content;
+    padding:10px;
+    text-shadow: #e0f2f5;
+    color:rgb(245, 250, 250);
+    text-shadow: 2px 4px 5px aqua;
+    font-size:24px ;
+  }
+h3{
+  text-shadow: 2px 4px 4px aqua;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
